@@ -1,7 +1,0 @@
-{
-  "name": "HideCallsCustom",
-  "description": "Oculta registros de llamadas en un canal específico",
-  "authors": [{ "name": "Usuario", "id": "000000000000000000" }],
-  "main": "index.js",
-  "hash": "1"
-}
