@@ -1,6 +1,0 @@
-{
-  "name": "OcultarLlamadas",
-  "description": "Limpia el historial de llamadas del canal",
-  "authors": [{ "name": "TuUsuario" }],
-  "main": "index.js"
-}
